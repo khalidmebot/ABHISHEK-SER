@@ -21,7 +21,7 @@ say('ABHISHEK-SER', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By @ABHISHEK SURESH._`, {
+say(`'${name}' By @KHALID-FAROOQ._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
