@@ -62,7 +62,7 @@ global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztw
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
 
 //Dont Edit Danger Zone⚠️
-global.wait = '*⌛ _Please Wait...\nSir KHALID is on Working..._*'
+global.wait = '*⌛ _Please Wait...\nSir Khalid is on Working..._*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
